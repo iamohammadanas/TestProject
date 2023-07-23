@@ -1,1 +1,8 @@
 Hello Bondhu
+
+git init
+git remote add origin <url>
+
+git add .
+git commit -m "First Commit"
+git push origin master
